@@ -1,0 +1,5 @@
+D:\Visual_studio\source\Git\KSTAssessmentCode\SortedNameApplication\bin\Debug\SortedNameApplication.exe
+D:\Visual_studio\source\Git\KSTAssessmentCode\SortedNameApplication\bin\Debug\SortedNameApplication.pdb
+D:\Visual_studio\source\Git\KSTAssessmentCode\SortedNameApplication\obj\Debug\SortedNameApplication.csprojAssemblyReference.cache
+D:\Visual_studio\source\Git\KSTAssessmentCode\SortedNameApplication\obj\Debug\SortedNameApplication.exe
+D:\Visual_studio\source\Git\KSTAssessmentCode\SortedNameApplication\obj\Debug\SortedNameApplication.pdb
